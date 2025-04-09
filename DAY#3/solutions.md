@@ -24,12 +24,22 @@ print(arr[1, 2])
 ```
 ## 4. Create the following array and access the element at 2nd row, 3rd column from this array:
 
+|   |   |   |
 |---|---|---|
 | 1 | 2 | 3 |
 | 4 | 5 | 6 |
 | 7 | 8 | 9 |
 
 ```python
+import numpy as np
+
+arr = np.array([[1, 2, 3],
+                [4, 5, 6],
+                [7, 8, 9]])
+
+# Accessing element at 2nd row (index 1), 3rd column (index 2)
+element = arr[1, 2]
+print("Element at 2nd row, 3rd column:", element)  # Output: 6
 
 ```
 

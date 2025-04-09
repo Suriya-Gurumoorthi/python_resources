@@ -5,10 +5,12 @@
 ## 3. Generate 6 evenly spaced numbers between 0 and 1
 ## 4. Create the following array and access the element at 2nd row, 3rd column from this array:
 
+|   |   |   |
 |---|---|---|
 | 1 | 2 | 3 |
 | 4 | 5 | 6 |
 | 7 | 8 | 9 |
+
 
 ## 5. Create a 1-D array `[10, 20, 30, 40, 50]` and slice the last 3 elements. Print the result.
 ## 6. Find max, min, mean, std of this array: `[10, 20, 30, 40, 50]`
