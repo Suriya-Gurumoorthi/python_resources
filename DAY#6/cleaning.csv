@@ -1,0 +1,11 @@
+name,email,age,purchase
+Alice,alice@company.com,25,100.5
+Bob ,bob@company.com,,75
+Charlie,charlie@gmail.com,30,abc
+Alice,alice@company.com,25,100.5
+David ,david@,40,200
+Eve, eve@company.com,-5,50.25
+Frank,frank@company.com,35,100.75
+Grace,grace@company.com,28,N/A
+Helen,helen@company.com,60,300
+ John,john@gmail.com,32,150.25
