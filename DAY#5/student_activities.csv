@@ -1,0 +1,9 @@
+﻿StudentID,Name,Age,Department,Score,Attendance,Clubs,Internship
+101,Alice,21,Computer Science,88,90,Robotics,Yes
+102,Bob,22,Electrical,76,85,Debate,No
+103,Charlie,20,Mechanical,93,95,Coding,Yes
+104,Diana,23,Computer Science,65,70,Art,No
+105,Ethan,21,Civil,80,88,Coding,Yes
+106,Farah,22,Electrical,92,96,Robotics,No
+107,George,20,Mechanical,78,75,Art,No
+108,Hannah,21,Civil,89,92,Debate,Yes
